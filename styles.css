@@ -200,3 +200,49 @@ h1 {
     font-weight: 550;
     color:#1f2937;
 }
+
+.body_4 {
+    display: flex;
+    justify-content: center;
+    height:50%;
+    width:100%;
+
+}
+
+
+.stuff {
+    display: flex;
+    justify-content: center;
+    height: 50%;
+    width: 60%;
+    background-color: #3882f6;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    gap:15px;
+    border-radius: 15px;
+}
+
+.btn_2 {
+    background-color: #3882f6 ;
+    padding: 5px;
+    border-radius: 15px;
+    width: 100px;
+    color:#e5e7eb;
+    border: solid;
+    border-color: #f9faf8;
+}
+
+.text_s {
+color:#f9faf8;
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
+
+.btn_2_div {
+    display: flex;
+    align-items: center;
+}
+
+.text_w {
+font-weight: 550;
+}
