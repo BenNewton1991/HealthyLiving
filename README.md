@@ -1,1 +1,1 @@
-# HealthyLiving
+# A basic template site.
