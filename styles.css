@@ -246,3 +246,20 @@ padding-bottom: 0px;
 .text_w {
 font-weight: 550;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:auto;
+    height:50px;
+    background-color: #1f2937;
+
+
+}
+
+.copyright {
+    color: #e5e7eb;
+
+
+}
