@@ -78,6 +78,7 @@ h1 {
     color: #E5E7Eb;
     margin:0px;
     padding: 0px;
+    margin-bottom: 8px;
 }
 
 .body_1_button {
@@ -85,8 +86,8 @@ h1 {
     padding: 5px 15px 5px 15px;
     border-radius: 15px;
     width: 100px;
-    
-
+    color:#e5e7eb;
+    border: none;
 }
 
 .body_1_right {
@@ -96,4 +97,56 @@ h1 {
     height:200px;
     width: 400px;
     background-color: #E5E7Eb;
+}
+
+.body_2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:30%;
+    width:100%;
+}
+
+.body_2_head {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.body_images, .body_texts{
+    display: flex;
+    justify-content:center;
+
+}
+
+.body_images {
+    gap: 15px;
+}
+
+.body_texts {
+    gap:22px;
+}
+
+
+.image_divs {
+    height: 100px;
+    width: 100px;
+    background-color: #E5E7Eb ;
+    border: solid;
+    border-color: #3882f6;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+
+.text_divs {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    gap: 20px;
+    text-align: center;
 }
